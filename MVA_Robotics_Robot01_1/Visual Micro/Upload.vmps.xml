@@ -1,0 +1,61 @@
+<VisualMicro>
+  <Program Name="MVA_Robotics_Robot01_1" Ext=".ino" Location="C:\Users\cahowd\SkyDrive\Documents\Robotics\Code\MVA_Robotics_Robot01_1">
+    <Platform Name="arduino10x" Package="arduino" Platform="avr" Architecture="avr">
+      <Board Name="uno" Description="Arduino Uno" CoreFolder="C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino" VariantFullPath="C:\Program Files (x86)\Arduino\hardware\arduino\variants\standard" McuIdePath="C:\Program Files (x86)\Arduino" McuSketchBookPath="C:\Users\cahowd\Documents\Arduino" name="Arduino Uno" upload.protocol="arduino" upload.maximum_size="32256" upload.speed="115200" bootloader.low_fuses="0xff" bootloader.high_fuses="0xde" bootloader.extended_fuses="0x05" bootloader.path="optiboot" bootloader.file="optiboot_atmega328.hex" bootloader.unlock_bits="0x3F" bootloader.lock_bits="0x0F" build.mcu="atmega328p" build.f_cpu="16000000L" build.core="arduino" build.variant="standard" runtime.ide.path="C:\Program Files (x86)\Arduino" build.system.path="C:\Program Files (x86)\Arduino\hardware\arduino\system" runtime.ide.version="105" originalid="uno" vm.platform.root.path="C:\Program Files (x86)\Visual Micro\Visual Micro for Arduino\Micro Platforms\arduino10x" build.core.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino" build.core.parentfolder.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino\cores" build.core.coresparentfolder.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino" vm.core.include="arduino.h" ide.hint="Arduino 0023 and 1.0.x Ide" ide.location.key="Arduino" ide.location.ide.winreg="Arduino 1.0.x Application" ide.location.sketchbook.winreg="Arduino 1.0.x Sketchbook" ide.location.sketchbook.preferences="sketchbook.path" ide.location.sketchbook.default="%MYDOCUMENTS%\arduino" ide.location.preferences="%VM_APPDATA_ROAMING%\arduino\preferences.txt" ide.default.package="arduino" ide.default.platform="avr" ide.multiplatform="true" ide.includes="arduino.h" ide.platformswithoutpackage="true" ide.includes.fallback="wprogram.h" ide.extension="ino" ide.extension.fallback="pde" ide.versionLTEQ="149" ide.exe="arduino.exe" ide.hosts="atmel" ide.url="http://arduino.cc/en/Main/Software" vm.debug="true" software="ARDUINO" ide.appid="arduino10x" location.sketchbook="C:\Users\cahowd\Documents\Arduino" build.board="AVR_UNO" vm.boardsource.path="C:\Program Files (x86)\Arduino\hardware\arduino" vm.platformname.name="avr" build.arch="AVR" build.variant.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino\variants\standard" vm.runtime.compiler.showwarnings="false" compiler.path="C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\" includes=" -I&quot;C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino&quot;  -I&quot;C:\Program Files (x86)\Arduino\hardware\arduino\variants\standard&quot;  -I&quot;C:\Program Files (x86)\Arduino\libraries\Wire&quot;  -I&quot;C:\Program Files (x86)\Arduino\libraries\Servo&quot;  -I&quot;C:\Program Files (x86)\Arduino\libraries&quot;  -I&quot;C:\Program Files (x86)\Arduino\hardware\arduino\libraries&quot;  -I&quot;C:\Program Files (x86)\Visual Micro\Visual Micro for Arduino\Micro Platforms\default\debuggers&quot;  -I&quot;C:\Users\cahowd\Documents\Arduino\libraries&quot;  -I&quot;C:\Program Files (x86)\Arduino\libraries\Wire\utility&quot;" build.path="C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot01_1\uno" build.project_name="MVA_Robotics_Robot01_1" build.variant.path="C:\Program Files (x86)\Arduino\hardware\arduino\variants\standard" archive_file="core.a" object_file="C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot01_1\uno\Servo\Servo.cpp.o" source_file="C:\Program Files (x86)\Arduino\libraries\Servo\Servo.cpp" object_files="&quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot01_1\uno\MVA_Robotics_Robot01_1.cpp.o&quot; &quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot01_1\uno\Wire\Wire.cpp.o&quot; &quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot01_1\uno\Wire\utility\twi.c.o&quot; &quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot01_1\uno\Servo\Servo.cpp.o&quot; " build.architecture="avr" vmresolved.compiler.path="C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\" vmresolved.tools.path="C:\Program Files (x86)\Arduino\hardware\tools\avr" />
+    </Platform>
+    <Compile CompilerErrors="0" ConfigurationName="Debug" StopOnError="False" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot01_1\uno" IsDebugStart="1" SketchName="MVA_Robotics_Robot01_1" ReportDigitalPins="0" ReportAnalogPins="0" ReportI2C="0" ReportFreeMemory="0" IncludeDebug="1" LastDebugPreProcessorDefinitions="VM_DEBUG;VM_DEBUG_ENABLE 1;VM_DEBUG_BANDWIDTH_THROTTLE_MS 50;VM_DEBUGGER_TYPE_HARDWARESERIAL 0;VM_DEBUGGER_TYPE_SOFTWARESERIAL 1;VM_DEBUGGER_TYPE_FASTSERIAL 2;VM_DEBUGGER_TYPE_USB 3;VM_DEBUGGER_TYPE_TEENSY 4;VM_DEBUGGER_TYPE_UART 5;VM_DEBUGGER_TYPE_USART 6;VM_DEBUGGER_TYPE_USBSERIAL 7;VM_DEBUGGER_TYPE_TTYUART 8;VM_DEBUGGER_TYPE_NET_CONSOLE 9;VM_DEBUGGER_TYPE VM_DEBUGGER_TYPE_HARDWARESERIAL;" IncludesDebug="1" IsCompiled="1" />
+    <Debug DebugEnabled="1" />
+    <VCCodeModel>
+      <VCCodeMacros />
+    </VCCodeModel>
+    <BreakPoints>
+      <BreakPoint Index="1" Name="MVA_Robotics_Robot01_1.ino, line 145" Id="8294f9d8-69ef-4413-97c8-bee0162462e5" Enabled="0" Message="{millis()}" MessageTextType="2" PreProcessedMessage="{0}" Condition="millis()&gt;0 || millis()&gt;1" ConditionType="1" CurrentHits="0" File="c:\users\cahowd\skydrive\documents\robotics\code\mva_robotics_robot01_1\mva_robotics_robot01_1.ino" FileLine="145" FileColumn="1" FunctionName="" FunctionLineOffset="1" FunctionColumnOffset="1" HitCountTarget="250" HitCountType="4" Language="C++" LocationType="3" Tag="&lt;vmbp Id='8294f9d8-69ef-4413-97c8-bee0162462e5'/&gt;" Type="1" ToString="System.__ComObject" BreakWhenHit="1">
+        <Source>138		pinShutdown = 8;												// use digital pin 8 for the shutdown switch
+139		pinMode(pinShutdown, INPUT);									// we will read the pin as a switch
+140		digitalWrite(pinShutdown, HIGH);								// set the pin HIGH so that pull-up resistor is enabled
+141		shutdownReading = HIGH;
+142		shutDown = false;
+143	}
+144	
+--&gt;145	void loop()
+146	{
+147		if (shutDown == false)
+148		{
+149			shutdownReading = digitalRead(pinShutdown);
+150			if (shutdownReading == LOW)
+151			{
+152				liveMode = false;
+153				shutDown = true;
+154			}
+</Source>
+        <MessageVariables>
+          <MessageVariable Name="millis()" Index="1" />
+        </MessageVariables>
+      </BreakPoint>
+      <BreakPoint Index="2" Name="MVA_Robotics_Robot01_1.ino, line 147" Id="af45f86c-a4a4-45e5-aa30-9fc4eea6c991" Enabled="1" Message="&quot;shutdownReading = {shutdownReading}, shutDown = {shutDown}&quot;" MessageTextType="0" PreProcessedMessage="&quot;shutdownReading = {0}, shutDown = {1}&quot;" Condition="" ConditionType="1" CurrentHits="0" File="c:\users\cahowd\skydrive\documents\robotics\code\mva_robotics_robot01_1\mva_robotics_robot01_1.ino" FileLine="147" FileColumn="1" FunctionName="loop()" FunctionLineOffset="2" FunctionColumnOffset="1" HitCountTarget="1" HitCountType="1" Language="C++" LocationType="3" Tag="&lt;vmbp Id='50798144-772e-440a-8a79-c3dbd8d2f5ce'/&gt;" Type="1" ToString="System.__ComObject" BreakWhenHit="0">
+        <Source>140		digitalWrite(pinShutdown, HIGH);								// set the pin HIGH so that pull-up resistor is enabled
+141		shutdownReading = HIGH;
+142		shutDown = false;
+143	}
+144	
+145	void loop()
+146	{
+--&gt;147		if (shutDown == false)
+148		{
+149			shutdownReading = digitalRead(pinShutdown);
+150			if (shutdownReading == LOW)
+151			{
+152				liveMode = false;
+153				shutDown = true;
+154			}
+155		}
+156	
+</Source>
+        <MessageVariables>
+          <MessageVariable Name="shutdownReading" Index="1" />
+          <MessageVariable Name="shutDown" Index="2" />
+        </MessageVariables>
+      </BreakPoint>
+    </BreakPoints>
+  </Program>
+</VisualMicro>

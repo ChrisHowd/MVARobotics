@@ -1,0 +1,12 @@
+﻿Build started 5/14/2014 2:30:35 PM.
+     1>Project "C:\Users\cahowd\Documents\Arduino\MVA_Robotics_Robot01_1\MVA_Robotics_Robot01_1.vcxproj" on node 2 (rebuild target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\MVA_Robotics_Robot01_1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Debug\MVA_Robotics_Robot01_1.unsuccessfulbuild".
+         Touching "Debug\MVA_Robotics_Robot01_1.lastbuildstate".
+     1>Done Building Project "C:\Users\cahowd\Documents\Arduino\MVA_Robotics_Robot01_1\MVA_Robotics_Robot01_1.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14

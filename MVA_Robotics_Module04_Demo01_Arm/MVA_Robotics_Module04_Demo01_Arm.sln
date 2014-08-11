@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MVA_Robotics_Module04_Demo01_Arm", "MVA_Robotics_Module04_Demo01_Arm.vcxproj", "{DA6E4B56-644A-4A17-9079-501444F3546F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA6E4B56-644A-4A17-9079-501444F3546F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA6E4B56-644A-4A17-9079-501444F3546F}.Debug|Win32.Build.0 = Debug|Win32
+		{DA6E4B56-644A-4A17-9079-501444F3546F}.Release|Win32.ActiveCfg = Release|Win32
+		{DA6E4B56-644A-4A17-9079-501444F3546F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

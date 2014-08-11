@@ -1,0 +1,87 @@
+<VisualMicro>
+  <Program Name="MVA_Robotics_Robot02_1" Ext=".ino" Location="C:\Users\cahowd\SkyDrive\Documents\Robotics\Code\MVA_Robotics_Robot02_1">
+    <Platform Name="arduino10x" Package="arduino" Platform="avr" Architecture="avr">
+      <Board Name="mega2560" Description="Arduino Mega 2560 or Mega ADK" CoreFolder="C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino" VariantFullPath="C:\Program Files (x86)\Arduino\hardware\arduino\variants\mega" McuIdePath="C:\Program Files (x86)\Arduino" McuSketchBookPath="C:\Users\cahowd\Documents\Arduino" name="Arduino Mega 2560 or Mega ADK" upload.protocol="wiring" upload.maximum_size="258048" upload.speed="115200" bootloader.low_fuses="0xFF" bootloader.high_fuses="0xD8" bootloader.extended_fuses="0xFD" bootloader.path="stk500v2" bootloader.file="stk500boot_v2_mega2560.hex" bootloader.unlock_bits="0x3F" bootloader.lock_bits="0x0F" build.mcu="atmega2560" build.f_cpu="16000000L" build.core="arduino" build.variant="mega" runtime.ide.path="C:\Program Files (x86)\Arduino" build.system.path="C:\Program Files (x86)\Arduino\hardware\arduino\system" runtime.ide.version="105" originalid="mega2560" vm.platform.root.path="C:\Program Files (x86)\Visual Micro\Visual Micro for Arduino\Micro Platforms\arduino10x" build.core.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino" build.core.parentfolder.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino\cores" build.core.coresparentfolder.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino" vm.core.include="arduino.h" ide.hint="Arduino 0023 and 1.0.x Ide" ide.location.key="Arduino" ide.location.ide.winreg="Arduino 1.0.x Application" ide.location.sketchbook.winreg="Arduino 1.0.x Sketchbook" ide.location.sketchbook.preferences="sketchbook.path" ide.location.sketchbook.default="%MYDOCUMENTS%\arduino" ide.location.preferences="%VM_APPDATA_ROAMING%\arduino\preferences.txt" ide.default.package="arduino" ide.default.platform="avr" ide.multiplatform="true" ide.includes="arduino.h" ide.platformswithoutpackage="true" ide.includes.fallback="wprogram.h" ide.extension="ino" ide.extension.fallback="pde" ide.versionLTEQ="149" ide.exe="arduino.exe" ide.hosts="atmel" ide.url="http://arduino.cc/en/Main/Software" vm.debug="true" software="ARDUINO" ide.appid="arduino10x" location.sketchbook="C:\Users\cahowd\Documents\Arduino" build.board="AVR_MEGA2560" vm.boardsource.path="C:\Program Files (x86)\Arduino\hardware\arduino" vm.platformname.name="avr" build.arch="AVR" build.variant.vmresolved="C:\Program Files (x86)\Arduino\hardware\arduino\variants\mega" vm.runtime.compiler.showwarnings="false" compiler.path="C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\" includes=" -I&quot;C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino&quot;  -I&quot;C:\Program Files (x86)\Arduino\hardware\arduino\variants\mega&quot;  -I&quot;C:\Program Files (x86)\Visual Micro\Visual Micro for Arduino\Micro Platforms\default\debuggers\VM_DBG&quot;  -I&quot;C:\Program Files (x86)\Arduino\libraries\Wire&quot;  -I&quot;C:\Program Files (x86)\Arduino\libraries\Servo&quot;  -I&quot;C:\Users\cahowd\Documents\Arduino\libraries\Adafruit_MotorShield_V2&quot;  -I&quot;C:\Program Files (x86)\Arduino\libraries&quot;  -I&quot;C:\Program Files (x86)\Arduino\hardware\arduino\libraries&quot;  -I&quot;C:\Program Files (x86)\Visual Micro\Visual Micro for Arduino\Micro Platforms\default\debuggers&quot;  -I&quot;C:\Users\cahowd\Documents\Arduino\libraries&quot;  -I&quot;C:\Program Files (x86)\Arduino\libraries\Wire\utility&quot; -I&quot;C:\Users\cahowd\Documents\Arduino\libraries\Adafruit_MotorShield_V2\utility&quot;" build.path="C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot02_1\mega2560" build.project_name="MVA_Robotics_Robot02_1" build.variant.path="C:\Program Files (x86)\Arduino\hardware\arduino\variants\mega" archive_file="core.a" object_file="C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot02_1\mega2560\Adafruit_MotorShield_V2\utility\Adafruit_PWMServoDriver.cpp.o" source_file="C:\Users\cahowd\Documents\Arduino\libraries\Adafruit_MotorShield_V2\utility\Adafruit_PWMServoDriver.cpp" object_files="&quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot02_1\mega2560\MVA_Robotics_Robot02_1.cpp.o&quot; &quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot02_1\mega2560\VM_DBG\VM_mem_check.c.o&quot; &quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot02_1\mega2560\VM_DBG\VM_DBG.cpp.o&quot; &quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot02_1\mega2560\Wire\Wire.cpp.o&quot; &quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot02_1\mega2560\Wire\utility\twi.c.o&quot; &quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot02_1\mega2560\Servo\Servo.cpp.o&quot; &quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot02_1\mega2560\Adafruit_MotorShield_V2\Adafruit_MotorShield.cpp.o&quot; &quot;C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot02_1\mega2560\Adafruit_MotorShield_V2\utility\Adafruit_PWMServoDriver.cpp.o&quot; " build.architecture="avr" vmresolved.compiler.path="C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\" vmresolved.tools.path="C:\Program Files (x86)\Arduino\hardware\tools\avr" />
+    </Platform>
+    <Compile CompilerErrors="0" ConfigurationName="Debug" StopOnError="False" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\cahowd\AppData\Local\VMicro\Arduino\Builds\MVA_Robotics_Robot02_1\mega2560" IsDebugStart="1" SketchName="MVA_Robotics_Robot02_1" ReportDigitalPins="0" ReportAnalogPins="0" ReportI2C="0" ReportFreeMemory="0" IncludeDebug="1" LastDebugPreProcessorDefinitions="VM_DEBUG;VM_DEBUG_ENABLE 1;VM_DEBUG_BANDWIDTH_THROTTLE_MS 50;VM_DEBUGGER_TYPE_HARDWARESERIAL 0;VM_DEBUGGER_TYPE_SOFTWARESERIAL 1;VM_DEBUGGER_TYPE_FASTSERIAL 2;VM_DEBUGGER_TYPE_USB 3;VM_DEBUGGER_TYPE_TEENSY 4;VM_DEBUGGER_TYPE_UART 5;VM_DEBUGGER_TYPE_USART 6;VM_DEBUGGER_TYPE_USBSERIAL 7;VM_DEBUGGER_TYPE_TTYUART 8;VM_DEBUGGER_TYPE_NET_CONSOLE 9;VM_DEBUGGER_TYPE VM_DEBUGGER_TYPE_HARDWARESERIAL;" IncludesDebug="1" IsCompiled="1" />
+    <Debug DebugEnabled="1" />
+    <VCCodeModel>
+      <VCCodeMacros />
+    </VCCodeModel>
+    <BreakPoints>
+      <BreakPoint Index="1" Name="MVA_Robotics_Robot02_1.ino, line 164" Id="2710c748-7f61-4fc4-b4e3-4c28480ba03b" Enabled="1" Message="{millis()}" MessageTextType="2" PreProcessedMessage="{0}" Condition="millis()&gt;0 || millis()&gt;1" ConditionType="1" CurrentHits="0" File="c:\users\cahowd\skydrive\documents\robotics\code\mva_robotics_robot02_1\mva_robotics_robot02_1.ino" FileLine="164" FileColumn="1" FunctionName="" FunctionLineOffset="1" FunctionColumnOffset="1" HitCountTarget="250" HitCountType="4" Language="C++" LocationType="3" Tag="&lt;vmbp Id='2710c748-7f61-4fc4-b4e3-4c28480ba03b'/&gt;" Type="1" ToString="System.__ComObject" BreakWhenHit="1">
+        <Source>157		areaMapped = false;										//
+158		monitoringArea = false;									//
+159		intruderDetected = false;								//
+160		intruderStopped = false;								//
+161	
+162	}
+163	
+--&gt;164	void loop()
+165	{
+166		if (robotInitialized == false) initializeRobot();		// initialize robot on startup
+167		//
+168		if (performDiagnosticsChecks == true)					// check to see if running diagnostics
+169		{																		//	
+170			if (armDiagnostics == true) testArmMovement();						// run arm positioning diagnostics
+171			if (wheelSpeedDiagnostics == true) testGearmotors();				// run wheel speed diagnostics
+172			if (sensorDiagnostics == true) testSensorPositioningAndReadings();	// run sensor positioning and distance measurement diagnostics 
+173			//
+</Source>
+        <MessageVariables>
+          <MessageVariable Name="millis()" Index="1" />
+        </MessageVariables>
+      </BreakPoint>
+      <BreakPoint Index="2" Name="MVA_Robotics_Robot02_1.ino, line 1272" Id="228d9181-5b5f-4d6f-9220-00e1c9ea5855" Enabled="1" Message="&quot;avgDistFLSmoothed = {avgDistFLSmoothed}, avgDistFRSmoothed = {avgDistFRSmoothed}, avgDistBRSmoothed = {avgDistBRSmoothed}&quot;" MessageTextType="0" PreProcessedMessage="&quot;avgDistFLSmoothed = {0}, avgDistFRSmoothed = {1}, avgDistBRSmoothed = {2}&quot;" Condition="" ConditionType="1" CurrentHits="0" File="c:\users\cahowd\skydrive\documents\robotics\code\mva_robotics_robot02_1\mva_robotics_robot02_1.ino" FileLine="1272" FileColumn="1" FunctionName="readSensorVoltages()" FunctionLineOffset="59" FunctionColumnOffset="1" HitCountTarget="1" HitCountType="1" Language="C++" LocationType="3" Tag="&lt;vmbp Id='228d9181-5b5f-4d6f-9220-00e1c9ea5855'/&gt;" Type="1" ToString="System.__ComObject" BreakWhenHit="0">
+        <Source>1265		}
+1266	
+1267	
+1268		analyzeSensorData(distanceFL, iterations, 2);
+1269		analyzeSensorData(distanceFR, iterations, 1);
+1270		analyzeSensorData(distanceBR, iterations, 0);
+1271	
+--&gt;1272		analyzeComplete = true;
+1273	
+1274	}
+1275	
+1276	
+1277	void analyzeSensorData(float arr[], int n, int sensorPinNumber)
+1278	{
+1279	
+1280		bool swapped = true;									//
+1281		int j = 0;												//
+</Source>
+        <MessageVariables>
+          <MessageVariable Name="avgDistFLSmoothed" Index="1" />
+          <MessageVariable Name="avgDistFRSmoothed" Index="2" />
+          <MessageVariable Name="avgDistBRSmoothed" Index="3" />
+        </MessageVariables>
+      </BreakPoint>
+      <BreakPoint Index="3" Name="MVA_Robotics_Robot02_1.ino, line 1261" Id="81c74b58-3293-4195-b750-59096b87b522" Enabled="1" Message="&quot;distanceFL[i]= {distanceFL[i]}, distanceFR[i] = {distanceFR[i]},distanceBR[i] = {distanceBR[i]} &quot;" MessageTextType="0" PreProcessedMessage="&quot;distanceFL[i]= {0}, distanceFR[i] = {1},distanceBR[i] = {2} &quot;" Condition="" ConditionType="1" CurrentHits="0" File="c:\users\cahowd\skydrive\documents\robotics\code\mva_robotics_robot02_1\mva_robotics_robot02_1.ino" FileLine="1261" FileColumn="1" FunctionName="readSensorVoltages()" FunctionLineOffset="48" FunctionColumnOffset="1" HitCountTarget="1" HitCountType="1" Language="C++" LocationType="3" Tag="&lt;vmbp Id='81c74b58-3293-4195-b750-59096b87b522'/&gt;" Type="1" ToString="System.__ComObject" BreakWhenHit="0">
+        <Source>1254			delay(40);
+1255			sensorValueFR = analogRead(A1);						//
+1256			//delay(40);
+1257			sensorValueBR = analogRead(A0);						//
+1258			//delay(40);
+1259			distanceFL[i] = sensorValueFL * 0.56;			// distance = analog reading * (5.0V / 1023.0) * (512.0in / 5.0V) = analog reading * (512.0 inches / 1023.0) 
+1260			distanceFR[i] = sensorValueFR * 0.56;			//
+--&gt;1261			distanceBR[i] = sensorValueBR * 0.56;			//
+1262	
+1263			//delay(40);
+1264	
+1265		}
+1266	
+1267	
+1268		analyzeSensorData(distanceFL, iterations, 2);
+1269		analyzeSensorData(distanceFR, iterations, 1);
+1270		analyzeSensorData(distanceBR, iterations, 0);
+</Source>
+        <MessageVariables>
+          <MessageVariable Name="distanceFL[i]" Index="1" />
+          <MessageVariable Name="distanceFR[i]" Index="2" />
+          <MessageVariable Name="distanceBR[i]" Index="3" />
+        </MessageVariables>
+      </BreakPoint>
+    </BreakPoints>
+  </Program>
+</VisualMicro>
